@@ -7,8 +7,10 @@ racket-part1:
 
 To view this talk use slide show from the Racket distribution:
 
+```
 presentations$ cd racket-part1/
 presentations/racket-part1$ slideshow talk.rkt
+```
 
 Here was the promo:
 
