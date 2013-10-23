@@ -3,9 +3,9 @@ presentations
 
 Slides, etc., for my presentations.
 
-racket-part1:
+racket-part1.pdf
 
-To view this talk use slide show from the Racket distribution:
+To view this talk in slideshow from the Racket distribution:
 
 ```
 presentations$ cd racket-part1/
