@@ -1,9 +1,24 @@
 presentations
 =============
 
-Slides, etc., for my presentations.
+The first talk has a little Racket, but is mostly about John McCarthy, lisp,
+and Algol60.
+
+NOTE: If anyone wants to preprocess the audio, or sync up the audio and slides
+go ahead and fork this repo! It is in the public domain. I have 4-ch flac audio
+available (but it is big).
+
+Video was taken. I don't know the status of that. I wanted to get the raw audio
+up today in memory of John McCarthy! I previewed the talk ogg+pdf and it sounds
+pretty good on headphones (I noticed a few mistakes, but oh well!), could use
+some compression, downmix to mono, and trimming.
+
+Talk starts about 7-8min in.
+
+Slides, audio, and source files for my pesentation:
 
 racket-part1.pdf
+racket-part1-lisp-algol60.ogg
 
 To view this talk in slideshow from the Racket distribution:
 
