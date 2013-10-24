@@ -17,8 +17,10 @@ Talk starts about 7-8min in.
 
 Slides, audio, and source files for my pesentation:
 
+```
 racket-part1.pdf
 racket-part1-lisp-algol60.ogg
+```
 
 To view this talk in slideshow from the Racket distribution:
 
