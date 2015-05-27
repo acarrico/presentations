@@ -1,0 +1,39 @@
+                    Let's Get Cozy with Relations
+
+You probably first heard the term "relation" when you were 10 years
+old. Did you embrace it? I wish I had.
+
+I plan to:
+
+  * sneak up on the term through iconic hacker culture (of course!)
+
+  * look relations straight in the eye
+
+  * check out slippery nearby terms like predicate, function,
+    procedure, and (maybe not) abstraction (that's another talk!)
+
+  * say a tiny bit, but almost nothing about SQL and logic
+    programming, and a little bit about other problem solving
+    approaches
+
+  * show a practical application: graphics
+
+  * show a theoretical application: (shudder) semantics
+
+On the practical side, if you are a day-to-day programmer, I think
+this talk will knock you sideways into a fresh perspective on your
+work. On the theoretical side, getting cozy with relations has really
+helped me approach the heavier VTFun talks, and that middle section of
+the "Papers We Love" that you really just want to skip, and so many
+things I've supposedly learned, but never really grokked.
+
+                                 Bio
+
+About the Presenter: Anthony Carrico earned a master's degree in
+electrical and computer engineering, primarily in signal processing
+and computer architecture. He tried to learn to code at an AI company
+heated with Lisp and Unix machines. He went on to program Japanese
+music video games. His wife teaches at St. Mike's, and he currently
+gets to stay home with the kids. His last presentation for VTFun was
+confusingly called "Pay Attention to Racket", but "Expressions" would
+have been a much more accurate title.
