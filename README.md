@@ -1,8 +1,17 @@
-presentations
-=============
+# 2015-05-27 relations
 
-The first talk has a little Racket, but is mostly about John McCarthy, lisp,
-and Algol60.
+[VT Functional Programmers: Anthony Carrico, *Let's Get Cozy with Relations*](http://www.meetup.com/VTCode/events/222541787/) 
+
+* Promo available in this repository (relations/blurb.txt).
+* PDF available in this repository (relations/talk.pdf).
+* Presentation available in this repository (relations/talk.rkt). It runs in Racket Slideshow.
+
+# 2013-10-23 expressions
+
+[VT Functional Programmers: Anthony Carrico, *Pay Attention to Racket*](http://www.meetup.com/VTCode/events/144677752/)
+
+This talk has a little Racket, but is mostly about John McCarthy, lisp,
+and Algol60 (I've come to think of it as the *expressions* talk).
 
 Video now available here: https://vimeo.com/77754412
 
