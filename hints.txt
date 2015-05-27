@@ -1,0 +1,10 @@
+arandr can be helpful setting up monitors.
+
+C-x C-+, C-x C-- to zoom in emacs, also C-x C-0, C-x C-=
+
+A-g in slideshow to select a slide.
+
+NOTE: avoid bug in old slideshow:
+      PATH=/home/acarrico/src/git/racket/racket/bin:$PATH
+
+C-x C-g l inserts a lambda in drracket
