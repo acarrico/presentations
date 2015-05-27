@@ -4,12 +4,14 @@ presentations
 The first talk has a little Racket, but is mostly about John McCarthy, lisp,
 and Algol60.
 
+Video now available here: https://vimeo.com/77754412
+
 NOTE: If anyone wants to preprocess the audio, or sync up the audio and slides
 go ahead and fork this repo! It is in the public domain. I have 4-ch flac audio
 available (but it is big).
 
-Video was taken. I don't know the status of that. I wanted to get the raw audio
-up today in memory of John McCarthy! I previewed the talk ogg+pdf and it sounds
+I wanted to get the raw audio up today in memory of John McCarthy!
+I previewed the talk ogg+pdf and it sounds
 pretty good on headphones (I noticed a few mistakes, but oh well!), could use
 some compression, downmix to mono, and trimming.
 
