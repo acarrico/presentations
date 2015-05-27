@@ -3,7 +3,7 @@
 (require slideshow/code)
 
 (provide lang foreign-code algol60-code highlight-last cite item-cite
-         colorize-words blue red yellow anonymous)
+         colorize-words blue red yellow anonymous when-who-what)
 
 (define (foreign-code str)
   (apply
@@ -55,3 +55,13 @@
 (define (red x) (colorize x "red"))
 
 (define (yellow x) (colorize x "yellow"))
+
+(define (when-who-what when who what)
+  (blue
+   (apply
+    para
+    when
+    ": "
+    who
+    ", "
+    (map it (string-split what " ")))))
