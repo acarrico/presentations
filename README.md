@@ -3,7 +3,7 @@
 [VT Functional Programmers: Anthony Carrico, *Let's Get Cozy with Relations*](http://www.meetup.com/VTCode/events/222541787/) 
 
 * Promo available in this repository: [relations/blurb.txt](https://github.com/acarrico/presentations/raw/master/relations/blurb.txt)
-* PDF available in this repository: [relations/talk.pdf](https://github.com/acarrico/presentations/raw/master/relations/talk.pdf)
+* PDF available in this repository: [relations/talk.pdf](https://github.com/acarrico/presentations/raw/master/relations.pdf)
 
 * Presentation available in this repository (relations/talk.rkt, etc). It runs in Racket Slideshow.
 
